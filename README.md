@@ -1,4 +1,4 @@
-# Linux-Command-Line-translate-
+# Linux-Command-Line
 Translation of 《The Linux Command Line》
 
 # Copyright
